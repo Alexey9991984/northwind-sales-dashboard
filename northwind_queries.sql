@@ -13,18 +13,6 @@ GROUP BY p.product_name
 ORDER BY revenue DESC
 LIMIT 5;
 
-CREATE USER analyst WITH PASSWORD '123456';
-GRANT ALL PRIVILEGES ON DATABASE Northwind TO analyst;
-
-
-
---- проверил совпадает ли мой дамп, кол-во заказов и деталей заказов с 
---- той базой которая должна быть. (все в порядке база та что нужно)
-
-SELECT COUNT(*) FROM orders;
-
-SELECT COUNT(*) FROM order_details;
-
 
 SELECT * FROM 
 categories;
