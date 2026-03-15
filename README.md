@@ -2,9 +2,19 @@
 
 ## Project Overview
 
-This project analyzes sales data from the Northwind database using SQL and Power BI.
+This project analyzes sales data from the **Northwind** database using **SQL (PostgreSQL)** and **Power BI**.
 
-The goal is to identify top customers, best-selling products, and revenue trends.
+The goal of the analysis is to identify:
+
+* top customers
+* best-selling products
+* revenue trends
+* geographical distribution of sales
+
+The project demonstrates the full analytics workflow:
+data extraction → SQL analysis → visualization in Power BI.
+
+---
 
 ## Tools
 
@@ -12,16 +22,23 @@ The goal is to identify top customers, best-selling products, and revenue trends
 * SQL
 * Power BI
 
+---
+
 ## Key Metrics
 
 * Total Revenue
 * Top 10 Customers by Revenue
 * Top 5 Products by Revenue
 * Monthly Sales Trend
+* Revenue by Country
 
-## Dashboard
+---
 
-![Dashboard](images/dashboard.png)
+## Dashboard Preview
+
+![Dashboard](images/screenshot.png)
+
+---
 
 ## Example SQL Query
 
@@ -38,9 +55,36 @@ GROUP BY c.company_name
 ORDER BY revenue DESC;
 ```
 
-## Insights
+---
 
-* A small group of customers generates the largest revenue.
-* A few products dominate total sales.
-* Sales trend shows steady growth over time.
+## Project Structure
+
+```
+northwind-sales-dashboard
+
+images/
+    screenshot.png
+
+powerbi/
+    northwind_dashboard.pbix
+
+sql/
+    northwind_queries.sql
+
+README.md
+```
+
+---
+
+## Key Insights
+
+* A small number of customers generate the majority of total revenue.
+* A few products dominate overall sales.
+* Sales are concentrated in several key countries.
+
+---
+
+## Author
+
+Oleksii Fandieiev
 
