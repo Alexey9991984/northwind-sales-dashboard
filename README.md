@@ -15,6 +15,32 @@ The project demonstrates the full analytics workflow:
 data extraction → SQL analysis → visualization in Power BI.
 
 ---
+# Northwind Sales | Geo Dashboard
+Power BI dashboard built on Northwind database.
+
+## Pages
+- Geo Dashboard — revenue by country and city (map, treemap, bar chart)
+
+## KPIs
+- Total Revenue: 626K
+- Total Orders: 830
+- Total Customers: 91
+
+
+images/
+    screenshot.png
+
+powerbi/
+    northwindgeo.pbix
+
+sql/
+    northgeo.sql
+
+README.md
+
+
+## Data
+Northwind sample database
 
 ## Tools
 
