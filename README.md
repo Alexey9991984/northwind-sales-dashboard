@@ -92,7 +92,7 @@ images/
     screenshot.png
 
 powerbi/
-    northwind_dashboard.pbix
+    northwinddash.pbix
 
 sql/
     northwind_queries.sql
