@@ -96,7 +96,7 @@ powerbi/
 
 sql/
     northwind_queries.sql
-
+    northgeo.sql
 README.md
 ```
 
