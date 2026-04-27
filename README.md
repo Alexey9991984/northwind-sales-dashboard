@@ -1,4 +1,4 @@
-# Northwind Sales Dashboard
+# Northwind Sales | Geo Dashboard
 
 ## Project Overview
 
@@ -15,7 +15,7 @@ The project demonstrates the full analytics workflow:
 data extraction → SQL analysis → visualization in Power BI.
 
 ---
-# Northwind Sales | Geo Dashboard
+
 Power BI dashboard built on Northwind database.
 
 ## Pages
@@ -31,10 +31,10 @@ images/
     screenshot.png
 
 powerbi/
-    northwindgeo.pbix
+    northwind.pbix
 
 sql/
-    northgeo.sql
+    north.sql
 
 README.md
 
