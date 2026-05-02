@@ -18,8 +18,16 @@ data extraction → SQL analysis → visualization in Power BI.
 
 Power BI dashboard built on Northwind database.
 
+## 🚧 Project Status
+This dashboard is actively being improved:
+- Adding advanced DAX measures
+- Improving customer segmentation
+- Enhancing UX and interactivity
+
 ## Pages
 - Geo Dashboard — revenue by country and city (map, treemap, bar chart)
+- Sales -
+- Customers -
 
 ## KPIs
 - Total Revenue: 626K
