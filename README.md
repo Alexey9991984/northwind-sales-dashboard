@@ -114,9 +114,9 @@ ORDER BY revenue DESC;
 northwind-sales-dashboard
 
 images/
-    screenshot1.png
-    screenshot2.png
-    screenshot3.png
+    01_geo_dashboard.png
+    02_customers_dashboard.png
+    03_sales_dashboard.png
 
 powerbi/
     northwinddash.pbix
