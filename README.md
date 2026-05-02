@@ -89,7 +89,9 @@ ORDER BY revenue DESC;
 northwind-sales-dashboard
 
 images/
-    screenshot.png
+    screenshot1.png
+    screenshot2.png
+    screenshot3.png
 
 powerbi/
     northwinddash.pbix
@@ -97,6 +99,7 @@ powerbi/
 sql/
     northwind_queries.sql
     northgeo.sql
+    northsales.sql
 README.md
 ```
 
