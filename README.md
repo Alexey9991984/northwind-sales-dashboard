@@ -1,4 +1,4 @@
-# Northwind Dashboard
+# Northwind Sales Dashboard | Power BI | Continuous Improvement
 
 ## Project Overview
 
