@@ -25,9 +25,36 @@ This dashboard is actively being improved:
 - Enhancing UX and interactivity
 
 ## Pages
-- Geo Dashboard — revenue by country and city (map, treemap, bar chart)
-- Sales -
-- Customers -
+## 📊 Dashboard Overview
+
+### 🌍 Geo Dashboard
+Revenue analysis by country and city:
+- Map visualization for geographic distribution
+- Treemap for city-level revenue breakdown
+- Bar chart for top countries by revenue
+
+### 💰 Sales Dashboard
+Sales performance analysis:
+- Total revenue and order volume
+- Revenue trends over time
+- Top products by revenue and profit
+- Sales distribution analysis
+
+### 👥 Customers Dashboard
+Customer behavior and segmentation:
+- Total, active, and inactive customers
+- Customer segmentation (Low / Medium / VIP)
+- Repeat customers and retention metrics
+- Top customers by revenue
+- Average revenue per customer
+
+### 📈 Key KPIs
+- Total Revenue
+- Total Orders
+- Total Customers
+- Active vs Inactive Customers
+- Repeat Rate %
+- Average Revenue per Customer
 
 ## KPIs
 - Total Revenue: 626K
@@ -55,16 +82,6 @@ Northwind sample database
 * PostgreSQL
 * SQL
 * Power BI
-
----
-
-## Key Metrics
-
-* Total Revenue
-* Top 10 Customers by Revenue
-* Top 5 Products by Revenue
-* Monthly Sales Trend
-* Revenue by Country
 
 ---
 
