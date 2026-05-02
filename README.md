@@ -62,7 +62,7 @@ Northwind sample database
 
 ## Dashboard Preview
 
-![Dashboard](images/screenshot.png)
+![Dashboard](images/screenshot1.png)
 
 ---
 
