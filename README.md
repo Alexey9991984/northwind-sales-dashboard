@@ -1,4 +1,4 @@
-# Northwind Sales | Geo Dashboard
+# Northwind Dashboard
 
 ## Project Overview
 
